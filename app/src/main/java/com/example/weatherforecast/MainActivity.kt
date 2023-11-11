@@ -16,7 +16,6 @@ import java.text.SimpleDateFormat
 import java.util.Date
 import java.util.Locale
 
-//API : 86fd0a5c71c31b65cbdb516c919b25b5
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
